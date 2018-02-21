@@ -1,3 +1,3 @@
 def position_taken?(board, index)
- board[index] != " " or "" or nil
-end
+ board[index] != " "||""||nil
+ end
